@@ -1,0 +1,882 @@
+ed sample_id=2973
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2974 tick=297400
+[RTOS_TC_003 PASS] Processor received sample_id=2974
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=2975 tick=297500
+[RTOS_TC_003 PASS] Processor received sample_id=2975
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2976 tick=297600
+[RTOS_TC_003 PASS] Processor received sample_id=2976
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2977 tick=297700
+[RTOS_TC_003 PASS] Processor received sample_id=2977
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2978 tick=297800
+[RTOS_TC_003 PASS] Processor received sample_id=2978
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2979 tick=297900
+[RTOS_TC_003 PASS] Processor received sample_id=2979
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=2980 tick=298000
+[RTOS_TC_003 PASS] Processor received sample_id=2980
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2981 tick=298100
+[RTOS_TC_003 PASS] Processor received sample_id=2981
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2982 tick=298200
+[RTOS_TC_003 PASS] Processor received sample_id=2982
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2983 tick=298300
+[RTOS_TC_003 PASS] Processor received sample_id=2983
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2984 tick=298400
+[RTOS_TC_003 PASS] Processor received sample_id=2984
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=2985 tick=298500
+[RTOS_TC_003 PASS] Processor received sample_id=2985
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2986 tick=298600
+[RTOS_TC_003 PASS] Processor received sample_id=2986
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2987 tick=298700
+[RTOS_TC_003 PASS] Processor received sample_id=2987
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2988 tick=298800
+[RTOS_TC_003 PASS] Processor received sample_id=2988
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2989 tick=298900
+[RTOS_TC_003 PASS] Processor received sample_id=2989
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=2990 tick=299000
+[RTOS_TC_003 PASS] Processor received sample_id=2990
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2991 tick=299100
+[RTOS_TC_003 PASS] Processor received sample_id=2991
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2992 tick=299200
+[RTOS_TC_003 PASS] Processor received sample_id=2992
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2993 tick=299300
+[RTOS_TC_003 PASS] Processor received sample_id=2993
+[RTOS_TC_002] Producer tick: sample=2994 tick=299400
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=2994
+[RTOS_TC_005 PASS] Monitor detected deadline miss within cycle.
+[RTOS_TC_006 PASS] DEADLINE_MISS detected under overload.
+[RTOS_TC_002] Producer tick: sample=2995 tick=299500
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=2995
+[RTOS_TC_002] Producer tick: sample=2996 tick=299600
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=2996
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2997 tick=299700
+[RTOS_TC_003 PASS] Processor received sample_id=2997
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2998 tick=299800
+[RTOS_TC_003 PASS] Processor received sample_id=2998
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=2999 tick=299900
+[RTOS_TC_003 PASS] Processor received sample_id=2999
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_007 PASS] RECOVERY: Processing returned under deadline.
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3000 tick=300000
+[RTOS_TC_003 PASS] Processor received sample_id=3000
+[RTOS_TC_002] Producer tick: sample=3001 tick=300100
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3001
+[RTOS_TC_002] Producer tick: sample=3002 tick=300200
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3002
+[RTOS_TC_002] Producer tick: sample=3003 tick=300300
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3003
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3004 tick=300400
+[RTOS_TC_003 PASS] Processor received sample_id=3004
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3005 tick=300500
+[RTOS_TC_003 PASS] Processor received sample_id=3005
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3006 tick=300600
+[RTOS_TC_003 PASS] Processor received sample_id=3006
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3007 tick=300700
+[RTOS_TC_003 PASS] Processor received sample_id=3007
+[RTOS_TC_002] Producer tick: sample=3008 tick=300800
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3008
+[RTOS_TC_002] Producer tick: sample=3009 tick=300900
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3009
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3010 tick=301000
+[RTOS_TC_003 PASS] Processor received sample_id=3010
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3011 tick=301100
+[RTOS_TC_003 PASS] Processor received sample_id=3011
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3012 tick=301200
+[RTOS_TC_003 PASS] Processor received sample_id=3012
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3013 tick=301300
+[RTOS_TC_003 PASS] Processor received sample_id=3013
+[RTOS_TC_002] Producer tick: sample=3014 tick=301400
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3014
+[RTOS_TC_005 PASS] Monitor detected deadline miss within cycle.
+[RTOS_TC_006 PASS] DEADLINE_MISS detected under overload.
+[RTOS_TC_002] Producer tick: sample=3015 tick=301500
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3015
+[RTOS_TC_002] Producer tick: sample=3016 tick=301600
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3016
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3017 tick=301700
+[RTOS_TC_003 PASS] Processor received sample_id=3017
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3018 tick=301800
+[RTOS_TC_003 PASS] Processor received sample_id=3018
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3019 tick=301900
+[RTOS_TC_003 PASS] Processor received sample_id=3019
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_007 PASS] RECOVERY: Processing returned under deadline.
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3020 tick=302000
+[RTOS_TC_003 PASS] Processor received sample_id=3020
+[RTOS_TC_002] Producer tick: sample=3021 tick=302100
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3021
+[RTOS_TC_002] Producer tick: sample=3022 tick=302200
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3022
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3023 tick=302300
+[RTOS_TC_003 PASS] Processor received sample_id=3023
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3024 tick=302400
+[RTOS_TC_003 PASS] Processor received sample_id=3024
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3025 tick=302500
+[RTOS_TC_003 PASS] Processor received sample_id=3025
+[RTOS_TC_002] Producer tick: sample=3026 tick=302600
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3026
+[RTOS_TC_002] Producer tick: sample=3027 tick=302700
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3027
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3028 tick=302800
+[RTOS_TC_003 PASS] Processor received sample_id=3028
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3029 tick=302900
+[RTOS_TC_003 PASS] Processor received sample_id=3029
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3030 tick=303000
+[RTOS_TC_003 PASS] Processor received sample_id=3030
+[RTOS_TC_002] Producer tick: sample=3031 tick=303100
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3031
+[RTOS_TC_002] Producer tick: sample=3032 tick=303200
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3032
+[RTOS_TC_002] Producer tick: sample=3033 tick=303300
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3033
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3034 tick=303400
+[RTOS_TC_003 PASS] Processor received sample_id=3034
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3035 tick=303500
+[RTOS_TC_003 PASS] Processor received sample_id=3035
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3036 tick=303600
+[RTOS_TC_003 PASS] Processor received sample_id=3036
+[RTOS_TC_002] Producer tick: sample=3037 tick=303700
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3037
+[RTOS_TC_002] Producer tick: sample=3038 tick=303800
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3038
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3039 tick=303900
+[RTOS_TC_003 PASS] Processor received sample_id=3039
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3040 tick=304000
+[RTOS_TC_003 PASS] Processor received sample_id=3040
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3041 tick=304100
+[RTOS_TC_003 PASS] Processor received sample_id=3041
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3042 tick=304200
+[RTOS_TC_003 PASS] Processor received sample_id=3042
+[RTOS_TC_002] Producer tick: sample=3043 tick=304300
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3043
+[RTOS_TC_002] Producer tick: sample=3044 tick=304400
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3044
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3045 tick=304500
+[RTOS_TC_003 PASS] Processor received sample_id=3045
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3046 tick=304600
+[RTOS_TC_003 PASS] Processor received sample_id=3046
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3047 tick=304700
+[RTOS_TC_003 PASS] Processor received sample_id=3047
+[RTOS_TC_002] Producer tick: sample=3048 tick=304800
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3048
+[RTOS_TC_002] Producer tick: sample=3049 tick=304900
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3049
+[RTOS_TC_005 PASS] Monitor detected deadline miss within cycle.
+[RTOS_TC_006 PASS] DEADLINE_MISS detected under overload.
+[RTOS_TC_002] Producer tick: sample=3050 tick=305000
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3050
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3051 tick=305100
+[RTOS_TC_003 PASS] Processor received sample_id=3051
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3052 tick=305200
+[RTOS_TC_003 PASS] Processor received sample_id=3052
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3053 tick=305300
+[RTOS_TC_003 PASS] Processor received sample_id=3053
+[RTOS_TC_002] Producer tick: sample=3054 tick=305400
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3054
+[RTOS_TC_002] Producer tick: sample=3055 tick=305500
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3055
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3056 tick=305600
+[RTOS_TC_003 PASS] Processor received sample_id=3056
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3057 tick=305700
+[RTOS_TC_003 PASS] Processor received sample_id=3057
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3058 tick=305800
+[RTOS_TC_003 PASS] Processor received sample_id=3058
+[RTOS_TC_002] Producer tick: sample=3059 tick=305900
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3059
+[RTOS_TC_002] Producer tick: sample=3060 tick=306000
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3060
+[RTOS_TC_002] Producer tick: sample=3061 tick=306100
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3061
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3062 tick=306200
+[RTOS_TC_003 PASS] Processor received sample_id=3062
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3063 tick=306300
+[RTOS_TC_003 PASS] Processor received sample_id=3063
+[RTOS_TC_002] Producer tick: sample=3064 tick=306400
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3064
+[RTOS_TC_002] Producer tick: sample=3065 tick=306500
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3065
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3066 tick=306600
+[RTOS_TC_003 PASS] Processor received sample_id=3066
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3067 tick=306700
+[RTOS_TC_003 PASS] Processor received sample_id=3067
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3068 tick=306800
+[RTOS_TC_003 PASS] Processor received sample_id=3068
+[RTOS_TC_002] Producer tick: sample=3069 tick=306900
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3069
+[RTOS_TC_002] Producer tick: sample=3070 tick=307000
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3070
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3071 tick=307100
+[RTOS_TC_003 PASS] Processor received sample_id=3071
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3072 tick=307200
+[RTOS_TC_003 PASS] Processor received sample_id=3072
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3073 tick=307300
+[RTOS_TC_003 PASS] Processor received sample_id=3073
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3074 tick=307400
+[RTOS_TC_003 PASS] Processor received sample_id=3074
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_007 PASS] RECOVERY: Processing returned under deadline.
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3075 tick=307500
+[RTOS_TC_003 PASS] Processor received sample_id=3075
+[RTOS_TC_002] Producer tick: sample=3076 tick=307600
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3076
+[RTOS_TC_002] Producer tick: sample=3077 tick=307700
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3077
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3078 tick=307800
+[RTOS_TC_003 PASS] Processor received sample_id=3078
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3079 tick=307900
+[RTOS_TC_003 PASS] Processor received sample_id=3079
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3080 tick=308000
+[RTOS_TC_003 PASS] Processor received sample_id=3080
+[RTOS_TC_002] Producer tick: sample=3081 tick=308100
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3081
+[RTOS_TC_002] Producer tick: sample=3082 tick=308200
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3082
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3083 tick=308300
+[RTOS_TC_003 PASS] Processor received sample_id=3083
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3084 tick=308400
+[RTOS_TC_003 PASS] Processor received sample_id=3084
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3085 tick=308500
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3085
+[RTOS_TC_002] Producer tick: sample=3086 tick=308600
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3086
+[RTOS_TC_002] Producer tick: sample=3087 tick=308700
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3087
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3088 tick=308800
+[RTOS_TC_003 PASS] Processor received sample_id=3088
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3089 tick=308900
+[RTOS_TC_003 PASS] Processor received sample_id=3089
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3090 tick=309000
+[RTOS_TC_003 PASS] Processor received sample_id=3090
+[RTOS_TC_002] Producer tick: sample=3091 tick=309100
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3091
+[RTOS_TC_002] Producer tick: sample=3092 tick=309200
+[RTOS_TC_004 FAIL] Processing exceeded deadline: 120 ms
+[RTOS_TC_003 PASS] Processor received sample_id=3092
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3093 tick=309300
+[RTOS_TC_003 PASS] Processor received sample_id=3093
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3094 tick=309400
+[RTOS_TC_003 PASS] Processor received sample_id=3094
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3095 tick=309500
+[RTOS_TC_003 PASS] Processor received sample_id=3095
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3096 tick=309600
+[RTOS_TC_003 PASS] Processor received sample_id=3096
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3097 tick=309700
+[RTOS_TC_003 PASS] Processor received sample_id=3097
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3098 tick=309800
+[RTOS_TC_003 PASS] Processor received sample_id=3098
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3099 tick=309900
+[RTOS_TC_003 PASS] Processor received sample_id=3099
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3100 tick=310000
+[RTOS_TC_003 PASS] Processor received sample_id=3100
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3101 tick=310100
+[RTOS_TC_003 PASS] Processor received sample_id=3101
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3102 tick=310200
+[RTOS_TC_003 PASS] Processor received sample_id=3102
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3103 tick=310300
+[RTOS_TC_003 PASS] Processor received sample_id=3103
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3104 tick=310400
+[RTOS_TC_003 PASS] Processor received sample_id=3104
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3105 tick=310500
+[RTOS_TC_003 PASS] Processor received sample_id=3105
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3106 tick=310600
+[RTOS_TC_003 PASS] Processor received sample_id=3106
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3107 tick=310700
+[RTOS_TC_003 PASS] Processor received sample_id=3107
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3108 tick=310800
+[RTOS_TC_003 PASS] Processor received sample_id=3108
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3109 tick=310900
+[RTOS_TC_003 PASS] Processor received sample_id=3109
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3110 tick=311000
+[RTOS_TC_003 PASS] Processor received sample_id=3110
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3111 tick=311100
+[RTOS_TC_003 PASS] Processor received sample_id=3111
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3112 tick=311200
+[RTOS_TC_003 PASS] Processor received sample_id=3112
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3113 tick=311300
+[RTOS_TC_003 PASS] Processor received sample_id=3113
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3114 tick=311400
+[RTOS_TC_003 PASS] Processor received sample_id=3114
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3115 tick=311500
+[RTOS_TC_003 PASS] Processor received sample_id=3115
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3116 tick=311600
+[RTOS_TC_003 PASS] Processor received sample_id=3116
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3117 tick=311700
+[RTOS_TC_003 PASS] Processor received sample_id=3117
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3118 tick=311800
+[RTOS_TC_003 PASS] Processor received sample_id=3118
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3119 tick=311900
+[RTOS_TC_003 PASS] Processor received sample_id=3119
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3120 tick=312000
+[RTOS_TC_003 PASS] Processor received sample_id=3120
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3121 tick=312100
+[RTOS_TC_003 PASS] Processor received sample_id=3121
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3122 tick=312200
+[RTOS_TC_003 PASS] Processor received sample_id=3122
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3123 tick=312300
+[RTOS_TC_003 PASS] Processor received sample_id=3123
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3124 tick=312400
+[RTOS_TC_003 PASS] Processor received sample_id=3124
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3125 tick=312500
+[RTOS_TC_003 PASS] Processor received sample_id=3125
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3126 tick=312600
+[RTOS_TC_003 PASS] Processor received sample_id=3126
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3127 tick=312700
+[RTOS_TC_003 PASS] Processor received sample_id=3127
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3128 tick=312800
+[RTOS_TC_003 PASS] Processor received sample_id=3128
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3129 tick=312900
+[RTOS_TC_003 PASS] Processor received sample_id=3129
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3130 tick=313000
+[RTOS_TC_003 PASS] Processor received sample_id=3130
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3131 tick=313100
+[RTOS_TC_003 PASS] Processor received sample_id=3131
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3132 tick=313200
+[RTOS_TC_003 PASS] Processor received sample_id=3132
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3133 tick=313300
+[RTOS_TC_003 PASS] Processor received sample_id=3133
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3134 tick=313400
+[RTOS_TC_003 PASS] Processor received sample_id=3134
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3135 tick=313500
+[RTOS_TC_003 PASS] Processor received sample_id=3135
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3136 tick=313600
+[RTOS_TC_003 PASS] Processor received sample_id=3136
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3137 tick=313700
+[RTOS_TC_003 PASS] Processor received sample_id=3137
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3138 tick=313800
+[RTOS_TC_003 PASS] Processor received sample_id=3138
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3139 tick=313900
+[RTOS_TC_003 PASS] Processor received sample_id=3139
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3140 tick=314000
+[RTOS_TC_003 PASS] Processor received sample_id=3140
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3141 tick=314100
+[RTOS_TC_003 PASS] Processor received sample_id=3141
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3142 tick=314200
+[RTOS_TC_003 PASS] Processor received sample_id=3142
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3143 tick=314300
+[RTOS_TC_003 PASS] Processor received sample_id=3143
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3144 tick=314400
+[RTOS_TC_003 PASS] Processor received sample_id=3144
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3145 tick=314500
+[RTOS_TC_003 PASS] Processor received sample_id=3145
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3146 tick=314600
+[RTOS_TC_003 PASS] Processor received sample_id=3146
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3147 tick=314700
+[RTOS_TC_003 PASS] Processor received sample_id=3147
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3148 tick=314800
+[RTOS_TC_003 PASS] Processor received sample_id=3148
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3149 tick=314900
+[RTOS_TC_003 PASS] Processor received sample_id=3149
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3150 tick=315000
+[RTOS_TC_003 PASS] Processor received sample_id=3150
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3151 tick=315100
+[RTOS_TC_003 PASS] Processor received sample_id=3151
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3152 tick=315200
+[RTOS_TC_003 PASS] Processor received sample_id=3152
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3153 tick=315300
+[RTOS_TC_003 PASS] Processor received sample_id=3153
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3154 tick=315400
+[RTOS_TC_003 PASS] Processor received sample_id=3154
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3155 tick=315500
+[RTOS_TC_003 PASS] Processor received sample_id=3155
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3156 tick=315600
+[RTOS_TC_003 PASS] Processor received sample_id=3156
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3157 tick=315700
+[RTOS_TC_003 PASS] Processor received sample_id=3157
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3158 tick=315800
+[RTOS_TC_003 PASS] Processor received sample_id=3158
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3159 tick=315900
+[RTOS_TC_003 PASS] Processor received sample_id=3159
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3160 tick=316000
+[RTOS_TC_003 PASS] Processor received sample_id=3160
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3161 tick=316100
+[RTOS_TC_003 PASS] Processor received sample_id=3161
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3162 tick=316200
+[RTOS_TC_003 PASS] Processor received sample_id=3162
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3163 tick=316300
+[RTOS_TC_003 PASS] Processor received sample_id=3163
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3164 tick=316400
+[RTOS_TC_003 PASS] Processor received sample_id=3164
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3165 tick=316500
+[RTOS_TC_003 PASS] Processor received sample_id=3165
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3166 tick=316600
+[RTOS_TC_003 PASS] Processor received sample_id=3166
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3167 tick=316700
+[RTOS_TC_003 PASS] Processor received sample_id=3167
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3168 tick=316800
+[RTOS_TC_003 PASS] Processor received sample_id=3168
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3169 tick=316900
+[RTOS_TC_003 PASS] Processor received sample_id=3169
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3170 tick=317000
+[RTOS_TC_003 PASS] Processor received sample_id=3170
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3171 tick=317100
+[RTOS_TC_003 PASS] Processor received sample_id=3171
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3172 tick=317200
+[RTOS_TC_003 PASS] Processor received sample_id=3172
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3173 tick=317300
+[RTOS_TC_003 PASS] Processor received sample_id=3173
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3174 tick=317400
+[RTOS_TC_003 PASS] Processor received sample_id=3174
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3175 tick=317500
+[RTOS_TC_003 PASS] Processor received sample_id=3175
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3176 tick=317600
+[RTOS_TC_003 PASS] Processor received sample_id=3176
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3177 tick=317700
+[RTOS_TC_003 PASS] Processor received sample_id=3177
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3178 tick=317800
+[RTOS_TC_003 PASS] Processor received sample_id=3178
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3179 tick=317900
+[RTOS_TC_003 PASS] Processor received sample_id=3179
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3180 tick=318000
+[RTOS_TC_003 PASS] Processor received sample_id=3180
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3181 tick=318100
+[RTOS_TC_003 PASS] Processor received sample_id=3181
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3182 tick=318200
+[RTOS_TC_003 PASS] Processor received sample_id=3182
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3183 tick=318300
+[RTOS_TC_003 PASS] Processor received sample_id=3183
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3184 tick=318400
+[RTOS_TC_003 PASS] Processor received sample_id=3184
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3185 tick=318500
+[RTOS_TC_003 PASS] Processor received sample_id=3185
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3186 tick=318600
+[RTOS_TC_003 PASS] Processor received sample_id=3186
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3187 tick=318700
+[RTOS_TC_003 PASS] Processor received sample_id=3187
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3188 tick=318800
+[RTOS_TC_003 PASS] Processor received sample_id=3188
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3189 tick=318900
+[RTOS_TC_003 PASS] Processor received sample_id=3189
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3190 tick=319000
+[RTOS_TC_003 PASS] Processor received sample_id=3190
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3191 tick=319100
+[RTOS_TC_003 PASS] Processor received sample_id=3191
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3192 tick=319200
+[RTOS_TC_003 PASS] Processor received sample_id=3192
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3193 tick=319300
+[RTOS_TC_003 PASS] Processor received sample_id=3193
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3194 tick=319400
+[RTOS_TC_003 PASS] Processor received sample_id=3194
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3195 tick=319500
+[RTOS_TC_003 PASS] Processor received sample_id=3195
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3196 tick=319600
+[RTOS_TC_003 PASS] Processor received sample_id=3196
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3197 tick=319700
+[RTOS_TC_003 PASS] Processor received sample_id=3197
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3198 tick=319800
+[RTOS_TC_003 PASS] Processor received sample_id=3198
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3199 tick=319900
+[RTOS_TC_003 PASS] Processor received sample_id=3199
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3200 tick=320000
+[RTOS_TC_003 PASS] Processor received sample_id=3200
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3201 tick=320100
+[RTOS_TC_003 PASS] Processor received sample_id=3201
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3202 tick=320200
+[RTOS_TC_003 PASS] Processor received sample_id=3202
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3203 tick=320300
+[RTOS_TC_003 PASS] Processor received sample_id=3203
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3204 tick=320400
+[RTOS_TC_003 PASS] Processor received sample_id=3204
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3205 tick=320500
+[RTOS_TC_003 PASS] Processor received sample_id=3205
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3206 tick=320600
+[RTOS_TC_003 PASS] Processor received sample_id=3206
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3207 tick=320700
+[RTOS_TC_003 PASS] Processor received sample_id=3207
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3208 tick=320800
+[RTOS_TC_003 PASS] Processor received sample_id=3208
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3209 tick=320900
+[RTOS_TC_003 PASS] Processor received sample_id=3209
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3210 tick=321000
+[RTOS_TC_003 PASS] Processor received sample_id=3210
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3211 tick=321100
+[RTOS_TC_003 PASS] Processor received sample_id=3211
+[RTOS_TC_004 PASS] Processing done in 0 ms
+rtos
+[RTOS_TC_002] Producer tick: sample=3212 tick=321200
+[RTOS_TC_003 PASS] Processor received sample_id=3212
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3213 tick=321300
+[RTOS_TC_003 PASS] Processor received sample_id=3213
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3214 tick=321400
+[RTOS_TC_003 PASS] Processor received sample_id=3214
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3215 tick=321500
+[RTOS_TC_003 PASS] Processor received sample_id=3215
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3216 tick=321600
+[RTOS_TC_003 PASS] Processor received sample_id=3216
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3217 tick=321700
+[RTOS_TC_003 PASS] Processor received sample_id=3217
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3218 tick=321800
+[RTOS_TC_003 PASS] Processor received sample_id=3218
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3219 tick=321900
+[RTOS_TC_003 PASS] Processor received sample_id=3219
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3220 tick=322000
+[RTOS_TC_003 PASS] Processor received sample_id=3220
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3221 tick=322100
+[RTOS_TC_003 PASS] Processor received sample_id=3221
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3222 tick=322200
+[RTOS_TC_003 PASS] Processor received sample_id=3222
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3223 tick=322300
+[RTOS_TC_003 PASS] Processor received sample_id=3223
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3224 tick=322400
+[RTOS_TC_003 PASS] Processor received sample_id=3224
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3225 tick=322500
+[RTOS_TC_003 PASS] Processor received sample_id=3225
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3226 tick=322600
+[RTOS_TC_003 PASS] Processor received sample_id=3226
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3227 tick=322700
+[RTOS_TC_003 PASS] Processor received sample_id=3227
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3228 tick=322800
+[RTOS_TC_003 PASS] Processor received sample_id=3228
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3229 tick=322900
+[RTOS_TC_003 PASS] Processor received sample_id=3229
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3230 tick=323000
+[RTOS_TC_003 PASS] Processor received sample_id=3230
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3231 tick=323100
+[RTOS_TC_003 PASS] Processor received sample_id=3231
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3232 tick=323200
+[RTOS_TC_003 PASS] Processor received sample_id=3232
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3233 tick=323300
+[RTOS_TC_003 PASS] Processor received sample_id=3233
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3234 tick=323400
+[RTOS_TC_003 PASS] Processor received sample_id=3234
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3235 tick=323500
+[RTOS_TC_003 PASS] Processor received sample_id=3235
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3236 tick=323600
+[RTOS_TC_003 PASS] Processor received sample_id=3236
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3237 tick=323700
+[RTOS_TC_003 PASS] Processor received sample_id=3237
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3238 tick=323800
+[RTOS_TC_003 PASS] Processor received sample_id=3238
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3239 tick=323900
+[RTOS_TC_003 PASS] Processor received sample_id=3239
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3240 tick=324000
+[RTOS_TC_003 PASS] Processor received sample_id=3240
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3241 tick=324100
+[RTOS_TC_003 PASS] Processor received sample_id=3241
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3242 tick=324200
+[RTOS_TC_003 PASS] Processor received sample_id=3242
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3243 tick=324300
+[RTOS_TC_003 PASS] Processor received sample_id=3243
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3244 tick=324400
+[RTOS_TC_003 PASS] Processor received sample_id=3244
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[MONITOR] System healthy. Last duration: 0 ms
+[RTOS_TC_002] Producer tick: sample=3245 tick=324500
+[RTOS_TC_003 PASS] Processor received sample_id=3245
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3246 tick=324600
+[RTOS_TC_003 PASS] Processor received sample_id=3246
+[RTOS_TC_004 PASS] Processing done in 0 ms
+[RTOS_TC_002] Producer tick: sample=3247 tick=324700
+[RTOS_TC_003 PASS] Processor received sample_id=3247
+[RTOS_TC_004 PASS] Processing done in 0 ms
