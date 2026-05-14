@@ -195,18 +195,35 @@ python hil_tests/live_log_validator.py --log logs/rtos_uart_log.txt
 
 ## Hardware Evidence
 
-The captured UART log validates normal execution, overload-induced deadline misses, monitor detection, and recovery.
+### STM32 Board Running Live UART Output
 
-Proof images are stored in `docs/images/`:
+![STM32F401RE Nucleo board connected via USB showing live UART deadline validation output](docs/images/hardware_proof.jpg)
 
-| File | Content |
-|---|---|
-| `hardware_proof.jpg` | Physical STM32F401RE board with USB connection |
-| `uart_normal_operation.png` | Terminal showing normal PASS log output |
-| `uart_deadline_miss.png` | Terminal showing 120 ms overload FAIL entries |
-| `uart_recovery.png` | Terminal showing RECOVERY log after overload clears |
-| `pytest_8_passed.png` | Terminal showing `8 passed` pytest result |
-| `html_report.png` | Browser showing generated HTML report |
+### UART Normal Operation — All Tasks PASS
+
+Producer generates samples every 100 ms, processor completes under the 80 ms deadline, monitor reports system healthy.
+
+![UART terminal showing normal operation with TC_001 through TC_004 PASS and MONITOR healthy](docs/images/uart_normal_operation.png)
+
+### UART Deadline Miss Detection — Overload Injected
+
+After pressing B1, the processor injects a 120 ms delay. TC_004 reports FAIL, and the monitor (TC_005, TC_006) detects the deadline miss.
+
+![UART terminal showing TC_004 FAIL at 120 ms and TC_005/TC_006 deadline miss detection](docs/images/uart_deadline_miss.png)
+
+### UART Recovery — Overload Cleared
+
+After releasing B1, the processor returns under the 80 ms deadline. The monitor logs TC_007 RECOVERY.
+
+![UART terminal showing TC_007 RECOVERY and MONITOR system healthy after overload clears](docs/images/uart_recovery.png)
+
+### Pytest Validation — 8/8 Passed
+
+![Pytest terminal output showing 8 passed in 0.46s](docs/images/pytest_8_passed.png)
+
+### HTML Report — Full Test Summary
+
+![Generated HTML report showing 8/8 PASSED with detailed test case results](docs/images/html_report.png)
 
 ## FreeRTOS Kernel Configuration
 
