@@ -89,48 +89,6 @@ void vProcessorTask(void *pvParameters)
     }
 }
 
-void vDeadlineMonitorTask(void *pvParameters)
-{
-    char log_buf[LOG_MAX_MESSAGE_LEN];
-    uint8_t was_missed = 0;
-
-    for (;;)
-    {
-        vTaskDelay(pdMS_TO_TICKS(MONITOR_PERIOD_MS));
-
-        uint32_t duration = 0;
-
-        if (xSemaphoreTake(xTimingMutex, pdMS_TO_TICKS(10)) == pdTRUE)
-        {
-            duration = xProcessorTiming.last_duration_ms;
-            xSemaphoreGive(xTimingMutex);
-        }
-
-        if (duration >= PROCESSOR_DEADLINE_MS)
-        {
-            if (!was_missed)
-            {
-                UART_Log("[RTOS_TC_005 PASS] Monitor detected deadline miss within cycle.\r\n");
-                UART_Log("[RTOS_TC_006 PASS] DEADLINE_MISS detected under overload.\r\n");
-                was_missed = 1;
-            }
-        }
-        else
-        {
-            if (was_missed)
-            {
-                UART_Log("[RTOS_TC_007 PASS] RECOVERY: Processing returned under deadline.\r\n");
-                was_missed = 0;
-            }
-
-            snprintf(log_buf, sizeof(log_buf),
-                "[MONITOR] System healthy. Last duration: %lu ms\r\n",
-                duration);
-            UART_Log(log_buf);
-        }
-    }
-}
-
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
     if (GPIO_Pin == B1_Pin)

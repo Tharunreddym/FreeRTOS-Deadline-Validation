@@ -1,0 +1,1 @@
+Developed a FreeRTOS Task Deadline Validation System on STM32 with producer, processor, and monitor tasks, validating 100 ms producer timing, 80 ms processor deadline enforcement, overload-induced deadline miss detection, recovery behavior, UART diagnostics, and Python-based HIL test reporting.

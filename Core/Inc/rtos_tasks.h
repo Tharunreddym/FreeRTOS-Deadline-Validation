@@ -24,6 +24,5 @@ extern volatile uint8_t ucOverloadInject;
 
 void vProducerTask(void *pvParameters);
 void vProcessorTask(void *pvParameters);
-void vDeadlineMonitorTask(void *pvParameters);
 
 #endif /* INC_RTOS_TASKS_H_ */

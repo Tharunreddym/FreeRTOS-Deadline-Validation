@@ -1,3 +1,0 @@
-../Core/Src/uart_logger.c:10:6:UART_Logger_Init	1
-../Core/Src/uart_logger.c:15:6:UART_Log	2
-../Core/Src/uart_logger.c:26:6:vUartLoggerTask	2

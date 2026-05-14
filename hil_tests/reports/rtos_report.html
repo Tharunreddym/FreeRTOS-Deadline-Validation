@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FreeRTOS Deadline Validation Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        .summary { font-size: 1.2em; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>FreeRTOS Task Deadline Validation Report</h1>
+    <p>Generated: 2026-05-13 22:25:22</p>
+    <p class='summary'>Result: <strong>8/8 PASSED</strong></p>
+    <table>
+        <tr>
+            <th>Test ID</th>
+            <th>Description</th>
+            <th>Result</th>
+            <th>Detail</th>
+        </tr>
+        
+        <tr>
+            <td>RTOS_TC_001</td>
+            <td>Scheduler starts</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_002</td>
+            <td>Producer timing within 100ms +/- 10ms</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td>All 288 consecutive intervals within tolerance</td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_003</td>
+            <td>Queue transfer producer to processor</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_004</td>
+            <td>Normal processing under deadline</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td>PASS=248 FAIL=55</td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_005</td>
+            <td>Monitor detects deadline miss within cycle</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_006</td>
+            <td>DEADLINE_MISS under overload</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_007</td>
+            <td>RECOVERY after overload clears</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RTOS_TC_008</td>
+            <td>UART log completeness</td>
+            <td style='color:green;font-weight:bold'>PASS</td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>

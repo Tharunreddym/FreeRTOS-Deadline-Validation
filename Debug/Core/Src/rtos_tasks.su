@@ -1,4 +1,0 @@
-../Core/Src/rtos_tasks.c:13:6:vProducerTask	168	static
-../Core/Src/rtos_tasks.c:37:6:vProcessorTask	160	static
-../Core/Src/rtos_tasks.c:92:6:vDeadlineMonitorTask	152	static
-../Core/Src/rtos_tasks.c:134:6:HAL_GPIO_EXTI_Callback	16	static

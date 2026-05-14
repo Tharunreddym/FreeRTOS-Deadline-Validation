@@ -1,2 +1,0 @@
-../Core/Src/freertos.c:62:6:vApplicationGetIdleTaskMemory	24	static
-../Core/Src/freertos.c:73:6:vApplicationStackOverflowHook	24	static,ignoring_inline_asm

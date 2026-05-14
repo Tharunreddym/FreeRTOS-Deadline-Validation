@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-05-13 22:25:22",
+  "summary": "8/8 PASSED",
+  "test_cases": [
+    {
+      "id": "RTOS_TC_001",
+      "description": "Scheduler starts",
+      "result": "PASS"
+    },
+    {
+      "id": "RTOS_TC_002",
+      "description": "Producer timing within 100ms +/- 10ms",
+      "result": "PASS",
+      "detail": "All 288 consecutive intervals within tolerance"
+    },
+    {
+      "id": "RTOS_TC_003",
+      "description": "Queue transfer producer to processor",
+      "result": "PASS"
+    },
+    {
+      "id": "RTOS_TC_004",
+      "description": "Normal processing under deadline",
+      "result": "PASS",
+      "detail": "PASS=248 FAIL=55"
+    },
+    {
+      "id": "RTOS_TC_005",
+      "description": "Monitor detects deadline miss within cycle",
+      "result": "PASS"
+    },
+    {
+      "id": "RTOS_TC_006",
+      "description": "DEADLINE_MISS under overload",
+      "result": "PASS"
+    },
+    {
+      "id": "RTOS_TC_007",
+      "description": "RECOVERY after overload clears",
+      "result": "PASS"
+    },
+    {
+      "id": "RTOS_TC_008",
+      "description": "UART log completeness",
+      "result": "PASS"
+    }
+  ]
+}

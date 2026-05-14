@@ -1,0 +1,41 @@
+# ==============================================================================
+# STM32CubeIDE / FreeRTOS Project .gitignore
+# ==============================================================================
+
+# ----- Build artifacts -----
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+objects.list
+objects.mk
+sources.mk
+makefile
+
+# ----- IDE settings (keep .cproject, .project, .mxproject for CubeIDE) -----
+.settings/
+
+# ----- Python -----
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ----- OS generated -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Editor temp files -----
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

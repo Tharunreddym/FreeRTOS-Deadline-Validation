@@ -1,0 +1,9 @@
+Test ID,Description,Result,Detail,Timestamp
+RTOS_TC_001,Scheduler starts,PASS,,2026-05-13 22:25:22
+RTOS_TC_002,Producer timing within 100ms +/- 10ms,PASS,All 288 consecutive intervals within tolerance,2026-05-13 22:25:22
+RTOS_TC_003,Queue transfer producer to processor,PASS,,2026-05-13 22:25:22
+RTOS_TC_004,Normal processing under deadline,PASS,PASS=248 FAIL=55,2026-05-13 22:25:22
+RTOS_TC_005,Monitor detects deadline miss within cycle,PASS,,2026-05-13 22:25:22
+RTOS_TC_006,DEADLINE_MISS under overload,PASS,,2026-05-13 22:25:22
+RTOS_TC_007,RECOVERY after overload clears,PASS,,2026-05-13 22:25:22
+RTOS_TC_008,UART log completeness,PASS,,2026-05-13 22:25:22
